@@ -1,6 +1,5 @@
 # Electricity_Bill_Calculator
 
-# Electricity Bill Calculator
 
 ## Description
 
